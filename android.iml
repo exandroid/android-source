@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <orderEntryProperties />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/./art/tools/ahat/src/main" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./art/tools/class2greylist/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./art/tools/dexfuzz/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./bootable/recovery/tools/recovery_l10n/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./bootable/recovery/updater_sample/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./build/make/tools/signapk/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./build/tools/signapk/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./dalvik/dexgen/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./dalvik/dx/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./dalvik/tools/dexdeps/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/am/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/appwidget/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/bmgr/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/bu/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/content/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/dpm/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/hid/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/input/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/locksettings/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/media/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/requestsync/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/sm/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/statsd/tools/dogfood/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/statsd/tools/localtools/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/svc/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/telecom/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/uiautomator/cmds/uiautomator/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/uiautomator/library/core-src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/cmds/vr/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/drm/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/keystore/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/libs/usb/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/location/lib/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/lowpan/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/apex/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/lib/remotedisplay/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/lib/signer/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/lib/tvremote/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/mca/effect/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/mca/filterfw/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/mca/filterpacks/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/mca/samples/CameraEffectsRecordingSample/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/media/packages/BluetoothMidiService/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/nfc-extras/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/obex" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/opengl/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/AppPredictionLib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/BackupRestoreConfirmation/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/CarSystemUI/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/CarrierDefaultApp/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/CompanionDeviceManager/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/DynamicSystemInstallationService/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/EasterEgg/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/ExtShared/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/ExternalStorageProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/FakeOemFeatures/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/FusedLocation/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/InputDevices/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/LocalTransport/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/MtpDocumentsProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/OsuLogin/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/PackageInstaller/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/PrintRecommendationService/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/PrintSpooler/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/ActionBarShadow/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/ActionButtonsPreference/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/AdaptiveIcon/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/AppPreference/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/BarChartPreference/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/EntityHeaderWidgets/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/HelpUtils/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/LayoutPreference/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/RestrictedLockUtils/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/SettingsSpinner/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/Tile/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/search/processor-src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/search/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/search/stub-src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsLib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SettingsProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SharedStorageBackup/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/Shell/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SimAppDialog/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/StatementService/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SystemUI/legacy/recents/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SystemUI/plugin/ExamplePlugin/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SystemUI/plugin/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SystemUI/plugin_core/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SystemUI/shared/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/SystemUI/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/VpnDialogs/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/WAPPushManager/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/WallpaperBackup/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/WallpaperCropper/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/services/PacProcessor/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/packages/services/Proxy/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/rs/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/samples/training/network-usage/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/sax/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/accessibility/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/appprediction/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/autofill/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/backup/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/companion/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/contentcapture/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/contentsuggestions/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/coverage/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/devicepolicy/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/midi/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/net/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/print/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/restrictions/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/systemcaptions/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/usage/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/usb/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/services/voiceinteraction/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/startop/iorap/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/telecomm/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/telephony/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/test-runner/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/test-runner/tests/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/tools/locked_region_code_injection/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/tools/powermodel/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/tools/preload2/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/tools/processors/unsupportedappusage/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/tools/processors/view_inspector/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/base/wifi/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/camera2/portability/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/camera2/public/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/camera2/utils/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/common/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/framesequence/samples/FrameSequenceSamples/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/framesequence/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/ex/widget/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/multidex/instrumentation/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/multidex/library/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/bitmap/sample/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/bitmap/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/calendar/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/car/services/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/car/setupwizard/library/main/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/car/setupwizard/library/utils/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/chips/sample/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/chips/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/colorpicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/datetimepicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/samples/bouncyball/app/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/src/extras/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/src/tuningfork/tools/validation/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/third_party/protobuf-3.0.0/java/core/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/third_party/protobuf-3.0.0/java/util/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/third_party/protobuf-3.0.0/javanano/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/gamesdk/third_party/protobuf-3.0.0/ruby/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/net/ethernet/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/net/ike/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/net/ims/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/net/voip/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/net/wifi/service/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/photoviewer/activity/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/photoviewer/appcompat/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/photoviewer/sample/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/photoviewer/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/setupwizard/library/gingerbread/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/setupwizard/library/main/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/setupwizard/library/platform/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/setupwizard/library/recyclerview/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/telephony/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/timezonepicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/opt/vcard/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./frameworks/rs/support/java/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/benchmarks/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/dalvik/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/json/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/libart/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/luni/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/annotations/hiddenapi" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/annotations/mmodule" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/annotations/mmodule/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/annotations/sdk/nullability" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/src/lambda/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/ojluni/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/tools/crypto/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/tools/docs/crypto/src/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/tools/upstream/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./libcore/xml/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/BasicSmsReceiver/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Bluetooth/lib/mapapi" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Bluetooth/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Browser2/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Calendar/extensions_src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Calendar/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Camera2/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Camera2/src_pd" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Camera2/src_pd_gcam" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Cluster/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Dialer/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Hvac/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/LatinIME/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Launcher/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/LensPicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/LinkViewer/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/LocalMediaPlayer/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Media/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Messenger/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Notification/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Radio/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/Settings/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/SystemUpdater/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-apps-common/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-arch-common/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-assist-client-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-assist-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-broadcastradio-support/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-media-common/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-settings-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Car/libs/car-telephony-common/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/CarrierConfig/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/CellBroadcastReceiver/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/CertInstaller/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Contacts/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Contacts/src-bind" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/DeskClock/gen" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/DeskClock/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/DevCamera/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Dialer/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/DocumentsUI/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Email/emailcommon/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Email/provider_src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Email/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/EmergencyInfo/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/ExactCalculator/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Gallery/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Gallery2/gallerycommon/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Gallery2/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Gallery2/src_pd" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/HTMLViewer/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/KeyChain/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/KeyChain/support/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/SecondaryDisplayLauncher/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/go/quickstep/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/go/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/iconloaderlib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/iconloaderlib/src_full_lib" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/quickstep/recents_ui_overrides/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/quickstep/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Launcher3/src_flags" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/LegacyCamera/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/ManagedProvisioning/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/ManagedProvisioning/tools/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Messaging/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Music/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/MusicFX/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Nfc/nci/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Nfc/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/OneTimeInitializer/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/PermissionController/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/PhoneCommon/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Protips/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Provision/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/QuickSearchBox/benchmarks/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/QuickSearchBox/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/SafetyRegulatoryInfo/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/SampleLocationAttribution/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/SecureElement/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Settings/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/SettingsIntelligence/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/SoundRecorder/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/SpareParts/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Stk/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/StorageManager/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/common/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/partner_support/samples/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/partner_support/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/tuner/SampleDvbTuner/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/tuner/SampleNetworkTuner/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TV/tuner/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Tag/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/Terminal/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/ThemePicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/ThemePicker/src_override" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TimeZoneData/src/main" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TimeZoneUpdater/src/main" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TvSettings/QuickSettings/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/TvSettings/Settings/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/UnifiedEmail/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/UnifiedEmail/unified_src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/UniversalMediaPlayer/gen" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/UniversalMediaPlayer/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/WallpaperPicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/WallpaperPicker2/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/apps/WallpaperPicker2/src_override" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/inputmethods/LatinIME/common/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/inputmethods/LatinIME/java/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/inputmethods/LatinIME/tools/EditTextVariations/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/inputmethods/LatinIME/tools/dicttool/compat" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/inputmethods/LatinIME/tools/dicttool/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/inputmethods/LatinIME/tools/make-keyboard-text/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/modules/CaptivePortalLogin/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/modules/ExtServices/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/modules/NetworkPermissionConfig/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/modules/NetworkStack/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/BlockedNumberProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/CalendarProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/CallLogProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/ContactsProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/DownloadProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/DownloadProvider/ui/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/MediaProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/PartnerBookmarksProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/TelephonyProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/TvProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/providers/UserDictionaryProvider/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/screensavers/Basic/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/screensavers/PhotoTable/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/AlternativeNetworkAccess/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/BuiltInPrintService/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/EncryptionRunner/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/FrameworkPackageStubs/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/car-default-input-service/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/car-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/car-lib/src_feature_future" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/car-maps-placeholder/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/car-usb-handler/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/obd2-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/procfs-inspector/client/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/service/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/tools/keventreader/client/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/user/car-user-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Car/vehicle-hal-support-lib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Mms/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Telecomm/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Telephony/sip/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/services/Telephony/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./packages/wallpapers/LivePicker/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/core/adb/fastdeploy/deployagent/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/core/adb/fastdeploy/deploylib/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/core/adb/fastdeploy/deploypatchgenerator/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/boottime_tools/bootanalyze/stressfs/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/power_profile/camera_avg/Application/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/power_profile/camera_flashlight/Application/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/power_profile/gps_on/Application/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/simpleperf/app_api/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/simpleperf/demo/CppApi/app/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/simpleperf/demo/JavaApi/app/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/simpleperf/demo/SimpleperfExamplePureJava/app/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/extras/simpleperf/demo/SimpleperfExampleWithNative/app/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/timezone/distro/core/src/main" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/timezone/distro/installer/src/main" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/timezone/distro/tools/src/main" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/timezone/tzlookup_generator/src/main/java" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/./system/tools/xsdc/src" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/core/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/services/core/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/services/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/apex/blobstore/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/apex/blobstore/service/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/apex/jobscheduler/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/apex/jobscheduler/service/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/services/appwidget/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/services/searchui/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/core/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/graphics/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/animationlib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/animationlib/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/iconloaderlib/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/iconloaderlib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/iconloaderlib/src_full_lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/motiontoollib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/motiontoollib/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/viewcapturelib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/libs/systemui/viewcapturelib/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/support/annotation/annotation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/apps/Launcher3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/apps/Launcher3/src_plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/apps/Launcher3/src_shortcuts_overrides" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/apps/Launcher3/src_ui_overrides" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/identity/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/location/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/media/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/media/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/mime/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/mms/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/frameworks/base/native/android/aidl" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/frameworks/base/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/prebuilt" />
+    </content>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/org/apache/harmony/luni/tests/ObjectStreamClassTest.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/org/apache/harmony/luni/tests/java/lang/illegalClasses.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/tests/api/java/net/TestCodeSigners.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/tests/api/java/net/InvalidJar.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/tests/api/java/net/lf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/tests/resources/testdex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/jars/charset_provider.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/dalvik/system/parent.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/dalvik/system/child.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/dalvik/system/loading-test.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/dalvik/system/loading-test2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/luni/src/test/resources/dalvik/system/bootoverride.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Modified_Manifest_MainAttributes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Inserted_Entry_Manifest_with_DigestCode.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_31.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_41.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_32.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_33.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_22-new.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_23.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_42.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/JarIndex/hyts_14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Broken_entry_data.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Inserted_Entry_Manifest.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_authAttrs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_sha256digest_sha256withecdsa.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Created_by_1_4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_validChain.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_no_entry.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_package_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_pq.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_no_attributes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_c_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_no_entry_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_all_attributes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_all_attributes_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_no_attributes_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_some_attributes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_some_attributes_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_package.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_c.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Package/hyts_pq_dex.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/StrictJarFileTestNoManifest.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Integrate.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_sha256withrsa.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/morestuff/hyts_patch2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/morestuff/hyts_patch.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_security.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/ClassPathURLStreamHandlerTest.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Modified_Manifest_EntryAttributes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_patch2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/net/TestCodeSigners.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/net/InvalidJar.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/junit4-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/removed.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_inc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_patch.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/TestCodeSigners.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Broken_manifest.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_metainf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_wrong_cert.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_certLoop.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_invalidChain.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_att.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_manifest1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/EmptyEntries_signed.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Broken_entry.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_sha256digest_sha256withrsa.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Modified_Class.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_ambiguousSignerArray.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/illegalClasses.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/Modified_SF_EntryAttributes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/ServiceLoader/hyts_services2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/ServiceLoader/hyts_services.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/replace_with_zero.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/support/src/test/java/tests/resources/hyts_signed_sha512digest_sha512withecdsa.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/harmony-tests/src/test/resources/tests/resources/net/lf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./libcore/harmony-tests/src/test/resources/tests/resources/net/url-test.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/opt/setupwizard/tools/docs/jsilver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/opt/setupwizard/tools/docs/doclava.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/opt/gamesdk/samples/unitypackaging/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/opt/gamesdk/samples/bouncyball/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/opt/gamesdk/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/base/tools/aapt2/integration-tests/CommandTests/android-28.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/base/tests/TouchLatency/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/base/tests/UiBench/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./frameworks/multidex/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./art/test/663-odd-dex-size2/663-odd-dex-size2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./art/test/663-odd-dex-size4/663-odd-dex-size4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./art/test/663-odd-dex-size3/663-odd-dex-size3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/simpleperf/demo/CppApi/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/simpleperf/demo/SimpleperfExamplePureJava/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/simpleperf/demo/SimpleperfExampleOfKotlin/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/simpleperf/demo/JavaApi/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/simpleperf/demo/SimpleperfExampleWithNative/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/power_profile/gps_on/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/power_profile/camera_avg/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./system/extras/power_profile/camera_flashlight/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-http-client-android-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-http-client-jdo-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-api-services-storage-v1-rev136-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/gson-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-http-client-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-api-client-android-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-http-client-gson-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-api-client-gson-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/jackson-core-2.9.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-api-client-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-api-client-jackson2-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-oauth-client-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/jdo2-api-2.3-eb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/httpclient-4.5.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/BugReportApp/libs/google-http-client-jackson2-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/EmbeddedKitchenSinkApp/libs/gson-2.1-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Car/tests/EmbeddedKitchenSinkApp/libs/gson-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/services/Telecomm/libs/guava.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Bluetooth/lib/room/room-compiler-2.0.0-beta01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Bluetooth/lib/room/room-migration-2.0.0-beta01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Bluetooth/lib/room/room-common-2.0.0-beta01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Bluetooth/lib/room/annotation-1.0.0-beta01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Launcher3/prebuilts/libs/plugin_core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-producers-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/guava-23.5-jre.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/guava-23.6-android.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-android-jarimpl-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/javawriter-2.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/google-java-format-1.4-all-deps.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/javapoet-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/guava-23.3-jre.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/javax.annotation-api-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/error_prone_annotations-2.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/auto-value-1.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/auto-factory-1.0-beta2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-compiler-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-android-support-jarimpl-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/truth-0.36.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-spi-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/TV/libs/dagger-android-processor-2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/WallpaperPicker2/libs/style_protos.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Car/libs/androidx-room/annotation-1.0.0-alpha1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Car/libs/androidx-room/androidx.room/room-compiler-2.0.0-alpha1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Car/libs/androidx-room/androidx.room/room-migration-2.0.0-alpha1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Car/libs/androidx-room/androidx.room/room-common-2.0.0-alpha1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/apps/Messaging/build/gcheckstyle/google-style-checker_deploy.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/./packages/inputmethods/LatinIME/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
